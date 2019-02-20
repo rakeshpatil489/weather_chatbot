@@ -1,0 +1,27 @@
+{
+  "name": "weather_chatbot",
+  "version": "1.0.0",
+  "description": "weather_chatbot_app",
+  "main": "chatbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshpatil489/weather_chatbot.git"
+  },
+  "author": "Rakesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshpatil489/weather_chatbot/issues"
+  },
+  "homepage": "https://github.com/rakeshpatil489/weather_chatbot#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "scripts":
+  {
+  "start":"node chatbot.js"
+  }
+ 
+}
